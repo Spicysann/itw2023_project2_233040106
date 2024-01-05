@@ -32,5 +32,9 @@ body {
 
 .carousel-inner {
     margin-top: 5%;
+
+}
+
+.carousel-item {
     margin-left: 25%;
 }
